@@ -10,7 +10,7 @@ def CalendarioTexto():
     txtCalendario = calendarioTexto.formatmonth(2019, 6)
     print (txtCalendario)
 
-#CalendarioTexto()
+# CalendarioTexto()
 # Criando um calendário no formato HTML
 
 def CalendarioHTML():
